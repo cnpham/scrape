@@ -1,3 +1,4 @@
+// import mongoose
 var mongoose = require("mongoose");
 
 // Save a reference to the Schema constructor
